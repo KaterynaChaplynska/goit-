@@ -95,9 +95,11 @@ a {
 
 .logo {
   display: block;
-  margin-bottom: 20px;
+  
+  margin-top: 24px;
+  margin-bottom: 25px;
 
-  color: var(--accent-color);
+  color: var(--secondary-color);
   font-family: Raleway;
   font-style: normal;
   font-weight: 700;
@@ -108,16 +110,13 @@ a {
 
 .menu-nav .logo {
  display: block;
- margin-top: 24px;
- margin-bottom: 25px;
+ 
 }
-.logo .light {
+.logo__part {
   color: var(--accent-color);
 }
 
-.logo .dark {
-  color: var(--secondary-color);
-}
+
 
 .site-nav {
   display: flex;
@@ -348,10 +347,8 @@ a {
 
 .item-icon {
  
-
   width: 70px;
   height: 70px;
-  
   
   
 }

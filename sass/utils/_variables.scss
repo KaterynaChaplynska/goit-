@@ -1,16 +1,33 @@
 $accentColor: #2196f3;
-$mainTextColor: #757575;
-$secondaryTextColor: rgba(255, 255, 255, 0.6);
-$mainTitleColor: #212121;
+$primaryTextColor: #757575;
+$transparentColor: rgba(255, 255, 255, 0.6);
+$secondaryColor: #212121;
 
-$generalColor: #ffffff;
-$secondaryColor: #000000;
+$titletextColor: #ffffff;
+// $secondaryColor: #000000;
 
-//backgrounds
+$footercolor: #2f303a;
+// $cardOverlay: rgba(33, 150, 243, 0.9);
 
-$lightBack: #f5f4fa;
-$darkBack: #2f303a;
-$cardOverlay: rgba(33, 150, 243, 0.9);
+$teambackgroundcolor: #f5f4fa;
+$teamborder: #EEEEEE;
+$teamclientagesolid: #afb1b8;
+$teemclientageborder:#E5E5E5;
+$teamborderbottom: #ECECEC;
 
-// link color
-$mainLinkColor: #afb1b8;
+
+
+// :root {
+//     --primary-text-color: #757575;
+//     --title-text-color: #ffffff;
+//     --accent-color: #2196f3;
+//     --secondary-color: #212121;
+//     --transparent-color: rgba(255, 255, 255, 0.6);
+//     --footer-color: #2f303a;
+//     --team-background-color: #f5f4fa;
+//     --team-border-bottom: #ECECEC;
+//     --team-border: #EEEEEE;
+//     --teem-clientage-border: #E5E5E5;
+//     --teen-clientage-solid: #AFB1B8;
+
+// }

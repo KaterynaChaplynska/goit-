@@ -95,11 +95,11 @@ a {
 
 .logo {
   display: block;
-  
+ 
   margin-top: 24px;
   margin-bottom: 25px;
 
-  color: var(--secondary-color);
+  color: var(--accent-color);
   font-family: Raleway;
   font-style: normal;
   font-weight: 700;
@@ -110,13 +110,16 @@ a {
 
 .menu-nav .logo {
  display: block;
- 
+ margin-top: 24px;
+ margin-bottom: 25px;
 }
-.logo__part {
+.logo .light {
   color: var(--accent-color);
 }
 
-
+.logo .dark {
+  color: var(--secondary-color);
+}
 
 .site-nav {
   display: flex;
